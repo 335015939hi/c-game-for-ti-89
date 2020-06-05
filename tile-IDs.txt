@@ -1,0 +1,22 @@
+0-empty
+1-house-door part (lower middle)
+2-house-middle top
+3-house bottem left
+4-house top left
+5-house bottem right
+6-house top right
+7-tree top
+8-tree bottem
+9-ladder
+10-chest
+11-grass
+12-dirt
+13-stone
+14-coal
+15-iron
+16-silver
+17-gold
+18-ruby
+19-diamond
+20-mythril
+21-wood block

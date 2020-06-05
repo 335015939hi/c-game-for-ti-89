@@ -1,0 +1,27 @@
+0-
+1-wood pickaxe
+2-iron pickaxe
+3-silver pickaxe
+4-mythril pickaxe
+5-drill
+6-
+7-
+8-wood
+9-ladder
+10-chest
+11-
+12-dirt
+13-stone
+14-coal
+15-iron ore
+16-silver ore
+17-gold ore
+18-ruby ore
+19-diamond ore
+20-mythril ore
+21-iron 
+22-silver
+23-gold
+24-ruby
+25-diamond
+26-mythril
